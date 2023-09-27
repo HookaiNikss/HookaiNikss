@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HookaiNikss
-- 👀 I’m interested in Data Science, Python, SQL and Bussiness Intelligence
+- 👀 I’m interested in Data Egineering, Python, SQL, APIs, Cloud.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data analysis.
+- 💞️ I’m looking to collaborate on data engineering.
 - 📫 How to reach me bru.albu22@gmail.com
 
 <!---
